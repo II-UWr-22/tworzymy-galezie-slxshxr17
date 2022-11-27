@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Dominik Szczepaniak
 Nie ma takiej rzeczy
+=======
+Fiolet
+>>>>>>> film
